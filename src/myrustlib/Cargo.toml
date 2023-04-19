@@ -1,0 +1,11 @@
+[package]
+name = "myrustlib"
+version = "0.1.0"
+authors = ["Bruian Blake <bruianio@gmail.com>"]
+
+[lib]
+crate-type = ["staticlib"]
+
+[dependencies]
+tiktoken-rs = "0.4.1"
+libc = "*"

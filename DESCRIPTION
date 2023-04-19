@@ -1,0 +1,14 @@
+Package: rustTiktoken
+Type: Package
+Title: Minimal library for counting GPT tokens Using Rust Code in R
+Version: 1.0.0
+Author: Bruian Blake <bruianio@gmail.com>
+Maintainer: Bruian Blake <bruianio@gmail.com>
+Authors@R: person("Bruian", "Blake", role = c("aut", "cre"), email = "bruianio@gmail.com")
+Description: This package provides a minimal library for counting GPT tokens Using Rust Code in R.
+License: MIT + file LICENSE
+URL: https://github.com/Conjoint-ly/rust_tiktoken
+BugReports: https://github.com/Conjoint-ly/rust_tiktoken/issues
+SystemRequirements: Cargo (rustc package manager)
+Encoding: UTF-8
+RoxygenNote: 7.2.1
