@@ -1,3 +1,5 @@
+# Минимальная библиотека для R, которая считает количество токенов в промте
+
 ## Кратко о R пакетах
   - [OpenAI token counting](https://github.com/openai/openai-cookbook/blob/main/examples/How_to_count_tokens_with_tiktoken.ipynb)
   - [RUST tiktoken](https://github.com/zurawiki/tiktoken-rs)
